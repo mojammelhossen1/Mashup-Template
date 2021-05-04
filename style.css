@@ -50,7 +50,8 @@ a {
 }
 
 main {
-    background: linear-gradient(180deg, #ff003cbe 0, #e72f2fa9);
+    background-image: linear-gradient(120deg, #84fab0de 0%, #8fd3f4 100%);
+
 }
 
 main>header {
